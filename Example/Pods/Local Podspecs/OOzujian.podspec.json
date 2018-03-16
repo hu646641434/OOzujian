@@ -1,0 +1,24 @@
+{
+  "name": "OOzujian",
+  "version": "0.1.0",
+  "summary": "OOzhujian pod use.",
+  "description": "TODO: OOzhujian pod use.",
+  "homepage": "http://mobile.fblife.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "OOzujian": "646641434@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/hu646641434/OOzujian.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OOzujian/Classes/**/*",
+  "public_header_files": "OOzujian/Classes/**/*.h",
+  "frameworks": "UIKit"
+}

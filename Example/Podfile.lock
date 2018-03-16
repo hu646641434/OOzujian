@@ -1,0 +1,16 @@
+PODS:
+  - OOzujian (0.1.0)
+
+DEPENDENCIES:
+  - OOzujian (from `../`)
+
+EXTERNAL SOURCES:
+  OOzujian:
+    :path: ../
+
+SPEC CHECKSUMS:
+  OOzujian: 71bbc371a3c39f52c94aea02bd928250e59eb371
+
+PODFILE CHECKSUM: 68f183eca274ebd1e735738886eabb5e681fafd1
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,6 @@
+framework module Pods_OOzujian_Tests {
+  umbrella header "Pods-OOzujian_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

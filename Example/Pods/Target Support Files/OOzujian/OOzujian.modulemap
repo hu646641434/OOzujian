@@ -1,0 +1,6 @@
+framework module OOzujian {
+  umbrella header "OOzujian-umbrella.h"
+
+  export *
+  module * { export * }
+}
