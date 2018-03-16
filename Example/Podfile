@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'OOzujian_Example' do
+  pod 'OOzujian', :path => '../'
+
+  target 'OOzujian_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
